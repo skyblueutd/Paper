@@ -18,7 +18,7 @@ Deep Complex Networks
 
 https://arxiv.org/abs/1705.09792
 
-It is a very simple neural network in complex numbers. I think it has more significant importance in electrical magnitude wave world rather than video/speech analysis since EM wave is a universe of complex variable functions. 
+It is a very simple neural network in complex numbers. I think it has more significant importance in electrical magnitude wave world rather than video/speech analysis since EM wave is an universe of complex variable functions. 
 
 2020:
 Maybe Graph Neural Networks. Let’s see.
