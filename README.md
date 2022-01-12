@@ -25,7 +25,7 @@ It is a very simple neural network in complex numbers. I think it has more signi
 Maybe Graph Neural Networks. Let’s see.(I want to list that covid-19 paper, let's skip this year...)
 
 2021:
- Mixed Integer Programs NN. Yes, DeepMind. 
+ Mixed Integer Programs NN. Yes, By DeepMind. 
  
  https://arxiv.org/pdf/2012.13349.pdf
 
