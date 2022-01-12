@@ -22,4 +22,14 @@ https://arxiv.org/abs/1705.09792
 It is a very simple neural network in complex numbers. I think it has more significant importance in electrical magnitude wave world rather than video/speech analysis since EM wave is an universe of complex variable functions. 
 
 2020:
-Maybe Graph Neural Networks. Let’s see.
+Maybe Graph Neural Networks. Let’s see.(I want to list that covid-19 paper, let's skip this year...)
+
+2021:
+ Mixed Integer Programs NN. Yes, DeepMind. 
+ 
+ https://arxiv.org/pdf/2012.13349.pdf
+
+Compare it with MIPLIB:
+https://miplib.zib.de/
+
+I heard it was tried to solve security constrained unit commitment (SCUC) problems.
