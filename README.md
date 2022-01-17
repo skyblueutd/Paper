@@ -1,6 +1,11 @@
 # Paper
  Most important papers I have read each year since I started my computer science professional.
 
+2016:
+XGboost
+https://arxiv.org/abs/1603.02754
+It is the start of my understanding of deep learning.
+
 2017:  
 Demand Response Exchange in the Stochastic Day-Ahead Scheduling with Variable Renewable Generation
  https://ieeexplore.ieee.org/abstract/document/7051232   
