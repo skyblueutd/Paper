@@ -28,4 +28,4 @@ Compare it with MIPLIB:
 I heard it was tried to solve security constrained unit commitment (SCUC) problems.
 
 2022: ChatGPT is fantastic.
-But this paper gives a review: https://arxiv.org/pdf/2301.04655.pdf
+But this paper gives a review of NLP: https://arxiv.org/pdf/2301.04655.pdf
