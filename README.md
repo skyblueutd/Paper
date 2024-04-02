@@ -30,3 +30,6 @@ I heard it was tried to solve security constrained unit commitment (SCUC) proble
 2022: ChatGPT is fantastic.
 But this paper gives a review of NLP: https://arxiv.org/pdf/2301.04655.pdf
 OK, there is a GPT4! It is a provement of emergentism.
+
+2023: Many of my old friends (professors/directors) are saying that there will be a revolution in material science after this:
+https://www.nature.com/articles/s41586-023-06735-9
