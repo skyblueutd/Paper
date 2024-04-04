@@ -33,3 +33,6 @@ OK, there is a GPT4! It is a provement of emergentism.
 
 2023: Many of my old friends (professors/directors) are saying that there will be a revolution in material science after this:
 https://www.nature.com/articles/s41586-023-06735-9
+
+2024: It should be diffusion models:
+There is a lot papers and code here, https://github.com/diff-usion/Awesome-Diffusion-Models
