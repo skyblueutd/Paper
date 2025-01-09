@@ -31,8 +31,10 @@ I heard it was tried to solve security constrained unit commitment (SCUC) proble
 But this paper gives a review of NLP: https://arxiv.org/pdf/2301.04655.pdf
 OK, there is a GPT4! It is a provement of emergentism.
 
-2023: Many of my old friends (professors/directors) are saying that there will be a revolution in material science after this:
+2023: Many of my old friends (professors/directors) are saying that there will be a revolution in material science after GNoME:
 https://www.nature.com/articles/s41586-023-06735-9
 
 2024: It should be diffusion models:
-There is a lot papers and code here, https://github.com/diff-usion/Awesome-Diffusion-Models
+There is a lot of papers and code here, https://github.com/diff-usion/Awesome-Diffusion-Models
+GraphCast: https://www.science.org/doi/10.1126/science.adi2336
+GenCast: https://arxiv.org/abs/2312.15796
